@@ -12,5 +12,3 @@ def levitation_quiz
   end
 
 end
-
-levitation_quiz
